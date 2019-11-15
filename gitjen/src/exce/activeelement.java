@@ -19,6 +19,7 @@ public class activeelement {
 		q.sendKeys("Poojai"+Keys.ENTER);
 		System.out.println("Test Passed!");
 		System.out.println("Test6 Passed!");
+		System.out.println("Test36 Passed!");
 		
 	}
 }
