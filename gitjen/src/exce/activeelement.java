@@ -20,6 +20,7 @@ public class activeelement {
 		System.out.println("Test Passed!");
 		System.out.println("Test6 Passed!");
 		System.out.println("Test36 Passed!");
+		System.out.println("Test96 Passed!");
 		
 	}
 }
