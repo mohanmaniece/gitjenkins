@@ -21,6 +21,7 @@ public class activeelement {
 		System.out.println("Test36 Passed!");
 		System.out.println("Test96 Passed!");
 		System.out.println("Test96 Passed!");
+		System.out.println("Test96 Passed!");
 		
 	}
 }
